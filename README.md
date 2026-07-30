@@ -1,4 +1,4 @@
-## Marco Vendramin — Português
+## Marco Vendramin - POR
 
 Sou estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), com interesse em compreender sistemas computacionais desde as camadas mais próximas do hardware até o desenvolvimento de aplicações.
 
@@ -20,7 +20,7 @@ Atualmente, tenho aprofundado meus conhecimentos em Redes de Computadores e Cibe
 
 _____________________________________________________________________________________________
 
-## Marco Vendramin — English
+## Marco Vendramin - ENG
 
 I am a Computer Engineering student at the Federal University of Technology – Paraná (UTFPR), interested in understanding computer systems from hardware-level components to software application development.
 
