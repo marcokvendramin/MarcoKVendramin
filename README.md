@@ -1,12 +1,12 @@
 <h1 align="center">
   <img
-    src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/330px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
     alt="Bandeira do Brasil"
     width="35"
   />
   Marco Vendramin
   <img
-    src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/330px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
     alt="Bandeira do Brasil"
     width="35"
   />
