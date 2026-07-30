@@ -40,6 +40,20 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
+<h1 align="center">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    alt="Bandeira dos Estados Unidos"
+    width="35"
+  />
+  Marco Vendramin
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    alt="Bandeira dos Estados Unidos"
+    width="35"
+  />
+</h1>
+
 <p align="justify">
   I am a Computer Engineering student at the Federal University of Technology – Paraná (UTFPR), interested in understanding computer systems from hardware-level components to software application development.
 </p>
