@@ -3,10 +3,14 @@
 _____________________________________________________________________________________________
 
 <p align="justify">
-  Sou estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), com interesse em compreender sistemas computacionais desde as camadas mais próximas do hardware até o desenvolvimento de aplicações.
+  Sou estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), com interesse em compreender sistemas computacionais desde as camadas mais próximas do hardware até o desenvolvimento de aplicações. 
+</p>
 
+<p align="justify">
   Tenho experiência com Python, C, C++ e Bash, aplicadas em projetos acadêmicos e pessoais envolvendo programação orientada a objetos, automação, análise de dados, sistemas embarcados e resolução de problemas computacionais.
+</p>
 
+<p align="justify">
   Atualmente, tenho aprofundado meus conhecimentos em Redes de Computadores e Cibersegurança por meio de estudos e cursos da Cisco. Busco uma oportunidade de estágio na área, na qual possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente.
 </p>
 
@@ -26,9 +30,13 @@ ________________________________________________________________________________
 
 <p align="justify">
   I am a Computer Engineering student at the Federal University of Technology – Paraná (UTFPR), interested in understanding computer systems from hardware-level components to software application development.
+</p>
 
+<p align="justify">
   I have experience with Python, C, C++, and Bash, applied to academic and personal projects involving object-oriented programming, automation, data analysis, embedded systems, and computational problem-solving.
+</p>
 
+<p align="justify">
   I am currently expanding my knowledge of Computer Networks and Cybersecurity through independent study and Cisco courses. I am seeking an internship opportunity in this field where I can apply my knowledge, gain practical experience, and continue developing professionally.
 </p>
 
