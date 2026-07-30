@@ -1,6 +1,5 @@
 <h1 align="center"> Marco Vendramin</h1>
-
----------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________
 
 Sou estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), com interesse em compreender sistemas computacionais desde as camadas mais próximas do hardware até o desenvolvimento de aplicações.
 
