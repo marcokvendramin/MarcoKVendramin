@@ -1,14 +1,14 @@
-<h1 align="center"> Marco Vendramin 
-  <div class="imagem">
-    <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg" />
-    .imagem img {
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
-    }
-  </div>    
+<h1 align="center">
+  Marco Vendramin
 </h1>
+
+<p align="center">
+  <img
+    src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
+    alt="Bandeira do Brasil"
+    width="60"
+  />
+</p>
 
 _____________________________________________________________________________________________
 
