@@ -1,4 +1,9 @@
 <h1 align="center">
+  <img
+    src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
+    alt="Bandeira do Brasil"
+    width="35"
+  />
   Marco Vendramin
   <img
     src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
