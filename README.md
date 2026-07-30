@@ -1,4 +1,4 @@
-<h1 align="center"> Marco Vendramin</h1>
+<h1 align="center"> Marco Vendramin <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg" alt="Texto Alternativo"> </h1>
 
 _____________________________________________________________________________________________
 
